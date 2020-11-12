@@ -1,0 +1,244 @@
+@charset "utf-8";
+/* CSS Document */
+.container
+{
+	width:100%;
+	height:1200px;
+	background-color:#CCC;
+	margin:0;
+}
+body
+{
+	width:100%;
+	height:1200px;
+	margin:0;
+}
+
+.name
+{
+	height:100px;
+	width:365px;
+	background-color:#CCC;
+	display:inline-block;
+	left:340px;
+	top:55px;
+	position:absolute;
+}
+.name pre
+{
+	display:inline;
+	color:#504D4D;
+	font-size:30px;
+	text-height:text-size;
+	left: 1px; 
+	width: 330px; 
+	height:100px;
+	position: relative; 
+	pointer-events: none; 
+	top: 20px;
+	font-family:"MS Serif", "New York", serif;
+	
+}
+
+p
+{
+	display:inline;
+	font-size:20px;
+	position:relative;
+	color:#504D4D;
+	top:25px;
+	
+}
+.rightnav
+{
+	width:805px;
+	margin:25px;
+	margin-left:705px;
+	display:inline-block;
+	height:100px;
+	
+	margin-top:55px;
+}
+.downsize
+{
+	width:805px;
+	margin-top:50px;
+	display:inline-block;
+	height:50px;
+	
+	
+
+}
+nav
+{
+	width:805px;
+	height:50px;
+	list-style:none;
+	display:inline-block;
+
+	
+}
+ul li
+{
+	float:left;	
+	list-style:none;
+	padding:1px 20px ;
+	font-size:15px;
+	font-family:"MS Serif", "New York", serif;
+	color:#504D4D;
+	   
+}
+ul li:hover
+{
+	color:#06F;
+	transition: .5s ease;
+	
+}
+
+
+.circle
+{
+	
+	
+	display:inline-block;
+	background-color:#504D4D;
+	border-radius:100%;
+	object-fit:cover;
+	outline:0;
+	left: 290px;
+	 position: absolute; 
+	 top: 300px; 
+	 width: 386px; 
+	 height: 380px;
+	 opacity:0.9;
+	 
+	
+}
+.circle img
+{
+	width:356px;
+	height:350px;
+	border-radius:500%;
+	display:inline-block;
+	opacity:0.8;
+	top:15px;
+	position:relative;
+	
+}
+.hello
+{
+	width:805px;
+	height:150px;
+	background-color:#000;
+	margin-left:700px;
+margin-top:75px;
+	display:inline-block;
+	
+}
+h1
+{
+	font-size:75px;
+	width:805px;
+	height:100px;
+	display:inline;
+	margin-top:-45px;
+	color:#504D4D;
+	font-family:"MS Serif", "New York", serif;
+}
+.hello pre
+{
+	
+		font-size:40px;
+	width:805px;
+	height:100px;
+	display:inline;
+	margin-top:-4px;
+	color:#504D4D;
+	font-family:Tahoma, Geneva, sans-serif;
+	
+	
+}
+.circle2
+{
+	width:805px;
+	height:150px;
+	background-color:#CCC;
+	display:inline-block;	
+	margin-left:700px;
+	
+	
+	
+	
+}
+
+.three_circle {
+  height: 130px;
+  min-height: 15px;
+  width: 130px;
+  background-color: #CCC;
+  border-radius: 50%;
+  display: inline-block;
+  margin-left:4px;
+  border:2px solid #FFF;
+  
+}
+.three_circle a
+{
+	
+	text-decoration:none;
+	color:#000;
+	margin:15px 15px 70px;
+	display:inline-block;
+	margin-top:55px; 
+	font-family:"MS Serif", "New York", serif;
+	
+	
+	
+	
+	
+	
+}
+.three_circle a:hover
+{
+	
+	color:#FFF;
+
+	
+}
+
+.three_circle:hover
+{
+	color:#FFF;
+	background-color:#F00;
+	display:inline-block;
+	transition: .8s ease;
+	color:#FFF;
+	opacity:0.8;	
+}
+.para
+{
+	
+	width:805px;
+	height:200px;
+	margin-left:705px;
+	background-color:#000;
+	
+}
+.para p
+{
+	width:805px;
+	color:#666;	
+	font-family:"MS Serif", "New York", serif;
+	position:relative;
+	
+}
+
+
+
+
+
+
+
+
+
+
